@@ -123,13 +123,13 @@ main > .logo {
   max-height: 150px;
 }
 
-.section.right > img {
+.right > img {
   float: right;
   padding-left: 20px;
   padding-bottom: 10px;
 }
 
-.section.left > img {
+.left > img {
   float: left;
   padding-right: 10px;
   padding-bottom: 10px;
@@ -219,4 +219,8 @@ aside.links {
 
 .map {
   border-radius: 2.5%;
+}
+
+.directions {
+  padding-right: 15px;
 }
