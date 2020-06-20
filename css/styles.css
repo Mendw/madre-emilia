@@ -187,6 +187,7 @@ aside.links {
   padding-bottom: 10px;
 }
 
+.contenido > div > a,
 .contenido > div > div {
   display: grid;
   grid-template-columns: 64px 1fr;
@@ -194,6 +195,7 @@ aside.links {
   column-gap: 10px;
 }
 
+.contenido > div > a   > img,
 .contenido > div > div > img {
   width: 64px;
 }
